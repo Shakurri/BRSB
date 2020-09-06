@@ -1,0 +1,16 @@
+{
+"companyName": "kixi",
+"productName": "BladeRondoStatusBoard",
+"productVersion": "1.0",
+"dataUrl": "results.data.unityweb",
+"wasmCodeUrl": "results.wasm.code.unityweb",
+"wasmFrameworkUrl": "results.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a2"
+}
